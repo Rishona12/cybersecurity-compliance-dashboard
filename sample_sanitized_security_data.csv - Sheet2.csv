@@ -1,0 +1,11 @@
+SUMMARY TABLE :,
+,
+METRIX:,VALUE:
+total systems,1
+total checks,415
+passed,173
+failed,219
+not applicable,22
+CIS Complaint ,385
+PCI,339
+OSI,379
