@@ -25,6 +25,17 @@ has not been uploaded to this repository.
 
 All analysis and visualizations were performed on sanitized data.
 
+## Sample Sanitized Data
+
+The sanitized dataset includes two views:
+
+- compliance_summary: High-level security posture metrics such as total checks,
+  pass/fail counts, and CIS/PCI/ISO compliance coverage.
+
+- detailed_compliance_results: Control-level compliance results used to
+  generate the dashboard visualizations.
+
+All sensitive identifiers have been masked to preserve confidentiality.
 
 ## Project Type
 Academic / Learning Project
