@@ -1,5 +1,4 @@
 # Cybersecurity Compliance Dashboard
-
 ## Overview
 This project focuses on analyzing cybersecurity compliance data to
 identify risks, failed security checks, and overall compliance status.
