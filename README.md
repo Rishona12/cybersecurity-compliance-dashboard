@@ -16,5 +16,15 @@ The dashboard supports audit-ready reporting and security monitoring.
 - Excel
 - Python (data preparation)
 
+## Data Handling & Privacy
+
+The original dataset used for this dashboard contains sensitive
+information such as IP addresses and security-related identifiers.
+To maintain data privacy and ethical standards, the raw dataset
+has not been uploaded to this repository.
+
+All analysis and visualizations were performed on sanitized data.
+
+
 ## Project Type
 Academic / Learning Project
